@@ -1,4 +1,4 @@
-## ⭐ Highlight
+## ⭐ Highlight 
 
 Automated user and queue management in Genesys Cloud using Python and REST API, reducing manual operational effort.
 
